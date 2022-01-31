@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.unjust1ce.idontcare.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "PackListWidgetRenderMixin",
+    "PackScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "text.autoconfig.idontcare.title": "IDontCare",
+  "text.autoconfig.idontcare.option.displayRedBackground": "Display red background",
+  "text.autoconfig.idontcare.option.displayRedBackground.@Tooltip": "When enabled, the background of incompatible resourcepacks will be red.",
+  "text.autoconfig.idontcare.option.displayWarningText": "Warning name",
+  "text.autoconfig.idontcare.option.displayWarningText.@Tooltip": "When enabled, incompatible resourcepacks change their name to 'Incompatible' while hovered.",
+  "text.autoconfig.idontcare.option.displayWarningDescription": "Warning description",
+  "text.autoconfig.idontcare.option.displayWarningDescription.@Tooltip": "When enabled, incompatible resourcepacks change their description to '(Made for an older/newer version of Minecraft)' while hovered.",
+  "text.autoconfig.idontcare.option.incompatibleConfirmation": "Show confirmation screen",
+  "text.autoconfig.idontcare.option.incompatibleConfirmation.@Tooltip": "When enabled, incompatible resourcepacks will display a confirmation screen."
+}

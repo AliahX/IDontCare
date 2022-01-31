@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "idontcare",
+  "version": "${version}",
+  "name": "IDontCare",
+  "description": "Removes the red background and warning for incompatible resourcepacks.",
+  "authors": [
+    "UnJust1ce"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/idontcare/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.unjust1ce.idontcare.IDontCare"
+    ],
+    "modmenu": [
+      "com.unjust1ce.idontcare.config.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "idontcare.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}
